@@ -1,7 +1,7 @@
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-<img src="test_videos_images/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
+<img src="test_images/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 Overview
 ---
@@ -37,7 +37,7 @@ The image shows identified lane markings in red.
 Supporting_img
 
 
-<img src="test_videos_output/solidWhiteRight.gif" width="480" alt="Output video" />
+<img src="test_videos_output/solidWhiteRight.gif.gif" width="480" alt="Output video" />
 
 
 
