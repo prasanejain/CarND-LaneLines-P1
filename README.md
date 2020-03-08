@@ -32,7 +32,7 @@ ROI and also the point which shall be the apex of ROI, for line on each side.
 
 The image shows identified lane markings in red.
 
-<img src="Supporting_img.png" width="480" alt="Supporting_img" />
+<img src="test_images/Supporting_img.PNG" width="480" alt="Supporting_img" />
 
 
 # Output Videos
@@ -41,7 +41,7 @@ The image shows identified lane markings in red.
 <img src="test_videos_output/solidWhiteRight.gif.gif" width="480" alt="Output video" />
 
 
-<img src="test_videos_output/solidWhiteRight.gif.gif" width="480" alt="Output video" />
+<img src="test_videos_output/solidYellowLeft.gif.gif" width="480" alt="Output video" />
 
 
 
